@@ -1,5 +1,5 @@
 # 💫 About Me:
-🌐 **Cybersecurity Enthusiast** | 🔍 **Reverse Engineering Explorer** | 💡 **Innovative Developer**
+🌐 **Cybersecurity** | 🔍 **Reverse Engineering** | 🧪 **Exploit Developement** | ☣️ **Malware Developement**
 
 I have an insatiable passion for exploring the depths of offensive cybersecurity. My journey through the digital realm has led me to specialize in various areas, where I constantly seek to push the boundaries of what's possible:
 
